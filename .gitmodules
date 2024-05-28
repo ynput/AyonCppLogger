@@ -1,0 +1,6 @@
+[submodule "ext/spdlog"]
+	path = ext/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "ext/AyonCppDevTools"]
+	path = ext/AyonCppDevTools
+	url = https://github.com/ynput/AyonCppDevTools.git
